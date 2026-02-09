@@ -1,0 +1,13 @@
+90025 , Mercedes , 2008 , Gasoline , Manual , 4 , 25600.0
+90035 , Toyota , 2015 , Diesel , Automatic , 4 , 14100.4
+90045 , Kia , 2020 , Gasoline , Manual , 4 , 25600.0
+90055 , Mercedes , 2012 , Gasoline , Manual , 2 , 31600.1
+90065 , Toyota , 2018 , Diesel , Manual , 4 , 24000.0
+90075 , Mercedes ,2016 , Gasoline , Manual , 4 , 26700.0
+90085 , Kia , 2008 , Gasoline , Automatic , 2 , 12300.7
+90095 , Mercedes , 2020 , Diesel , Manual , 4 , 55800.6
+90115 , Toyota  , 2021 , Gasoline , Manual , 4 , 29200.5
+90125 , Ferrari , 2019 , Gasoline , Automatic , 2 , 22300.8
+90135 , Ferrari , 2023 , Diesel , Manual , 2 , 55200.4
+90145 , Kia , 2011 , Diesel , Automatic , 4 , 14200.7
+90155 , Toyota , 2016 , Diesel , Manual , 4 , 19900.4

@@ -1,0 +1,15 @@
+1001 : Ali Ramadan : 21st st , Gaza , 00970 : 30/4/1995
+1002 : Aya Suheel : Main st , DeerAlbalah , 00970 : 05/8/1999
+1003 : Rami Jalal : Almanara st , Rafah , 00972 : 25/7/2000
+1004 : Said Amer : Albahar st , Khanyounis , 00972 : 12/4/1990
+1005 : Assad Waleed : 24th st , Alnusyrat , 00970 : 03/4/2003
+1006 : Adel Jaber : Alnejman st , Rafah , 00972 : 21/5/1992
+1007 : Huda Adham : Main st , Khanyounis , 00972 : 14/1/1993
+1008 : Ramez Wadi : Almanara st , Rafah , 00972 : 25/1/2001
+1009 : Kareem Wael : Main st , Alnusyrat , 00970 : 20/7/1990
+1010 : Ahlam Nabeel : 12 st , Rafah , 00972 : 30/4/2005
+1011 : Sari Yahya : Main st , Khanyounis , 00972 : 3/3/1996
+1012 : Ahmed Khaleel : Alnejman st , Rafah , 00972 : 2/2/2001
+1013 : Sally Radi : Albahar st , Khanyounis , 00972 : 30/4/1989
+1014 : Ayham Jaber : 5th st , DeerAlbalah , 00970 : 1/1/1987
+1015 : Yosif Raed : 24th st , Alnusyrat , 00970 : 12/4/1997
