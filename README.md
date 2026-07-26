@@ -20,5 +20,5 @@ Each directory represents a specific milestone in my learning journey:
 ##  Why this matters
 I believe that writing code that "works" is easy, but writing code that is "well-organized" is a craft. This repository showcases my commitment to becoming a software architect who values **Clean Code** and **Maintainability**.
 
-> *"First, solve the problem. Then, write the code."* – John Johnson
+
 -Ranim.
